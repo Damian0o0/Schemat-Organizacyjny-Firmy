@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Schemat organizacyjny firmy", "Schemat organizacyjny firmy\Schemat organizacyjny firmy.csproj", "{236DD5BA-DE49-4E24-BDAD-AB39CE3694BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{236DD5BA-DE49-4E24-BDAD-AB39CE3694BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{236DD5BA-DE49-4E24-BDAD-AB39CE3694BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{236DD5BA-DE49-4E24-BDAD-AB39CE3694BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{236DD5BA-DE49-4E24-BDAD-AB39CE3694BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ECE2298A-EA99-42D6-A7E7-B9257ECB517C}
+	EndGlobalSection
+EndGlobal

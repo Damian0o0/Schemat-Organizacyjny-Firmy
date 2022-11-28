@@ -1,0 +1,18 @@
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\bin\Debug\net6.0-windows\Schemat organizacyjny firmy.exe
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\bin\Debug\net6.0-windows\Schemat organizacyjny firmy.deps.json
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\bin\Debug\net6.0-windows\Schemat organizacyjny firmy.runtimeconfig.json
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\bin\Debug\net6.0-windows\Schemat organizacyjny firmy.dll
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\bin\Debug\net6.0-windows\Schemat organizacyjny firmy.pdb
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.csproj.AssemblyReference.cache
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat_organizacyjny_firmy.Form1.resources
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat_organizacyjny_firmy.Form2.resources
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.csproj.GenerateResource.cache
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.GeneratedMSBuildEditorConfig.editorconfig
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.AssemblyInfoInputs.cache
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.AssemblyInfo.cs
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.csproj.CoreCompileInputs.cache
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.dll
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\refint\Schemat organizacyjny firmy.dll
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.pdb
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\Schemat organizacyjny firmy.genruntimeconfig.cache
+\\zstsrv\gorka.damian$$\desktop\Schemat organizacyjny firmy\Schemat organizacyjny firmy\Schemat organizacyjny firmy\obj\Debug\net6.0-windows\ref\Schemat organizacyjny firmy.dll
